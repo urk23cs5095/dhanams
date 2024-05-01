@@ -1,0 +1,3 @@
+[submodule "dhanams"]
+	path = dhanams
+	url = https://github.com/urk23cs5095/dhanams.git
